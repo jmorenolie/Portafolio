@@ -1,0 +1,40 @@
+/* Estilos generales */
+body {
+    background-color: #1f1f1f;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #111111;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main {
+    /* Estilos para el contenido principal */
+}
+
+section {
+    padding: 50px;
+}
+
+section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+footer {
+    background-color: #111111;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
